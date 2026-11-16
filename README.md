@@ -19,4 +19,4 @@
 
 #### 入驻公告
 
-- [我入驻爱发电了 · STU 事项助手的赞助入口开通](https://github.com/csensicrigley-netizen/stu-assistant/issues/37)
+- [我入驻爱发电了 · 官宣](https://github.com/csensicrigley-netizen/afdian)
