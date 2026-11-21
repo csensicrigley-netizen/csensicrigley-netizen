@@ -9,14 +9,12 @@
 
 #### 支持我 ☕
 
-[![爱发电](https://img.shields.io/badge/爱发电-支持作者-946ce6?style=flat-square)](https://afdian.com/a/oyishi)
+服务器、域名、证书、外部识别调用都是和小伙伴们在扛。站内没有广告，也不拿用户数据换钱。
 
-服务器、域名、证书、外部识别调用都是我自己在扛。站内没有广告，也不拿用户数据换钱。
-
-如果它让你少迟到过一次、少错过一次作业，可以请我喝杯咖啡 👉 **https://afdian.com/a/oyishi**
-
-不赞助完全不影响使用，功能一点不少给；赞助的同学提需求，我会优先排期。
+如果它让你少迟到过一次、少错过一次作业，可以为我们点亮一下Star!十分感谢！
 
 #### 入驻公告
 
 - [我入驻爱发电了 · 官宣](https://github.com/csensicrigley-netizen/afdian)
+- 
+- [![爱发电](https://img.shields.io/badge/爱发电-支持作者-946ce6?style=flat-square)](https://afdian.com/a/oyishi)
